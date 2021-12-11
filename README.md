@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @diegolazcanodev
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on three.js, AI, web dev.
+- 📫 diegolazcanodev@gmail.com
